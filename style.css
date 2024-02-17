@@ -6,6 +6,7 @@
     background-color: black;
     color: whitesmoke;
     padding: 15px;
+    margin: 0;
 }
 #n1 {
     padding-right: 720px;
@@ -22,3 +23,28 @@
 #n5 {
     padding-right: ;
 }
+#sec2 {
+    width: 50%;
+    margin-left: 350px;
+    border: 2px solid rgb(49, 45, 39);
+    padding: 15px;
+    background-color: white;
+}
+#body1 {
+    background-color: whitesmoke;
+}
+#btn {
+    width: 100%;
+    margin-top: 15px;
+    padding: 8px 300px;
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.ab1 {
+    width: 97%;
+    margin: 5px 0;
+    padding: 5px;
+}
+
