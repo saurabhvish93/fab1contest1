@@ -20,9 +20,6 @@
 #n4 {
     padding-right: 20px;
 }
-#n5 {
-    padding-right: ;
-}
 #sec2 {
     width: 50%;
     margin-left: 350px;
@@ -46,5 +43,8 @@
     width: 97%;
     margin: 5px 0;
     padding: 5px;
+}
+#tab1 {
+    border: 2px solid grey;
 }
 
